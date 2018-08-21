@@ -1,6 +1,8 @@
 package superClass;
 
 public class Shirt extends clothing {
+	private char size;
+	private char colorCode;
 	private char fit = 'U';
 	
 	
